@@ -27,7 +27,7 @@ function sendTG(result, serverName = 'OptikLink') {
         const msg = [
             `🎮 OptikLink 保活通知`,
             `🕐 运行时间: ${nowStr()}`,
-            `🖥 服务器: 新加坡`,
+            `🖥 服务器: 美国`,
             `🖥 邮箱: ${serverName}`,
             `📊 执行结果: ${result}`,
         ].join('\n');
